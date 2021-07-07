@@ -351,4 +351,4 @@ async def embed(ctx, title, *, description):
 
 
 
-client.run('ODYxODM3MTcyNzU4NTQ0Mzk0.YOPmag.KfE7tBbMB2xzzddhlJ4EfnXw4-Q')
+client.run('ODYxODM3MTcyNzU4NTQ0Mzk0.YOPmag.ayhgCUUyjG0rUNBXj2yu19OwHBg')
